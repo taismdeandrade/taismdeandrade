@@ -16,8 +16,8 @@ Possuo experiência com suporte ao usuário no momento estou focando meus estudo
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="20px" width="20px" />](https://www.linkedin.com/in/taismdeandrade/)
 
 ## 
-<a href="https://github.com/taisdeandrade">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisdeandrade&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/taismdeandrade">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taismdeandrade&layout=compact&langs_count=7&theme=dracula"/>
           
  
 <!--
