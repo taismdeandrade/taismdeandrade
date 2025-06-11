@@ -1,7 +1,7 @@
 ## Olá, me chamo Taís. 👋
-👩‍💻 Sou estudante de ciência da computação.
+👩‍💻 Sou estudante de Sistemas de Informação.
 
-Possuo experiência com suporte ao usuário e no momento estou focando meus estudos na área de desenvolvimento:
+Possuo experiência com suporte ao usuário e manutenção de computadores, no momento estou focando meus estudos na área de desenvolvimento:
 
 ## Estou estudando as tecnologias:
 
